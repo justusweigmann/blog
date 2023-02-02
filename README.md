@@ -1,1 +1,0 @@
-# This Repo is for the Website: blog.justusweigmann.de

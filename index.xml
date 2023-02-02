@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Justus Weigmann</title>
+    <title>Blog by Justus Weigmann</title>
     <link>https://blog.justusweigmann.de/</link>
-    <description>Recent content on Blog | Justus Weigmann</description>
+    <description>Recent content on Blog by Justus Weigmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 22:34:13 +0100</lastBuildDate><atom:link href="https://blog.justusweigmann.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.justusweigmann.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Connecting the World, One Engineer at a Time</title>
-      <link>https://blog.justusweigmann.de/post/welcome/</link>
-      <pubDate>Tue, 24 Jan 2023 22:34:13 +0100</pubDate>
+      <title>Discovering the Power of Technology to Create a Brighter Future</title>
+      <link>https://blog.justusweigmann.de/posts/welcome/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.justusweigmann.de/post/welcome/</guid>
-      <description>Welcome to my journey as a student and engineer, where I am exploring the possibilities of technology and its potential to shape a better future. As a student at Deutsche Telekom, I am gaining valuable knowledge and hands-on experience to help drive innovation in the field of Information and Communication Technology.
-As a Bachelor of Engineering in Information and Communication Technology, I am proud to be a part of the team at Deutsche Telekom AG.</description>
+      <guid>https://blog.justusweigmann.de/posts/welcome/</guid>
+      <description>Hello and welcome to my journey as a student and engineer, where I will be exploring the limitless potential of technology and its ability to shape a better future. I am excited to share my knowledge, experiences, and projects with you all and I hope this blog will be a platform for collaboration and inspiration.
+From my studies at Deutsche Telekom to my involvement in the Finkwarder Speeldeel choir group and personal projects in web design and photography/videography, I am constantly seeking new ways to grow and make a positive impact through technology.</description>
     </item>
     
   </channel>
